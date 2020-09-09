@@ -2035,3 +2035,12 @@ patch:
         patched: '2020-09-03T15:12:54.197Z'
     - react-scripts > jest > jest-cli > jest-runner > jest-runtime > jest-config > babel-core > babel-register > babel-core > babel-helpers > babel-template > babel-traverse > babel-types > lodash:
         patched: '2020-09-03T15:12:54.197Z'
+  SNYK-JS-LODASH-450202:
+    - semantic-ui-react > lodash:
+        patched: '2020-09-09T11:59:00.974Z'
+    - react-scripts > webpack-manifest-plugin > lodash:
+        patched: '2020-09-09T11:59:00.974Z'
+    - react-scripts > optimize-css-assets-webpack-plugin > last-call-webpack-plugin > lodash:
+        patched: '2020-09-09T11:59:00.974Z'
+    - react-scripts > webpack-dev-server > http-proxy-middleware > lodash:
+        patched: '2020-09-09T11:59:00.974Z'
