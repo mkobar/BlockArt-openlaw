@@ -13,7 +13,7 @@
     "react-scripts": "3.4.4",
     "semantic-ui-react": "^0.83.0",
     "web3": "1.2.10",
-    "snyk": "^1.392.1"
+    "snyk": "^1.425.4"
   },
   "scripts": {
     "start": "react-scripts start",
